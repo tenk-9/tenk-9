@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![tenk-9's GitHub stats](https://github-readme-stats-three-black-69.vercel.app/api?username=tenk-9)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="195" src="https://github-readme-stats-three-black-69.vercel.app/api?username=tenk-9&show_icons=true&theme=github_dark_dimmed&title_color=92F3A4&icon_color=92F3A4&border_color=3B4252" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="195" src="https://github-readme-stats-three-black-69.vercel.app/api/top-langs/?username=tenk-9&layout=compact&theme=github_dark_dimmed&title_color=92F3A4&border_color=3B4252" />
+</a>
