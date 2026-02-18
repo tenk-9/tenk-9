@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-three-black-69.vercel.app/api?username=tenk-9&show_icons=true&theme=github_dark_dimmed&title_color=92F3A4&icon_color=92F3A4&border_color=3B4252" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="195" src="https://github-readme-stats-three-black-69.vercel.app/api/top-langs/?username=tenk-9&layout=compact&langs_count=8&theme=github_dark_dimmed&title_color=92F3A4&border_color=3B4252" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-three-black-69.vercel.app/api?username=tenk-9&show_icons=true&theme=github_dark_dimmed&title_color=92F3A4&icon_color=92F3A4&border_color=3B4252" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-three-black-69.vercel.app/api/top-langs/?username=tenk-9&layout=compact&langs_count=8&theme=github_dark_dimmed&title_color=92F3A4&border_color=3B4252" />
+  </a>
+</div>
